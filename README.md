@@ -2,8 +2,6 @@
 Real-Time Chat Application A real-time chat application enabling seamless communication between server and clients across different devices. Built with TCP/UDP protocols for efficient messaging, supporting features like multiple client connections, instant message delivery, and a user-friendly interface.
 Here’s a detailed README.md file template for your Real-Time Chat Application:
 
-# Real-Time Chat Application  
-
 A real-time chat application that facilitates instant communication between a server and multiple clients across different devices. This application supports both TCP and UDP protocols, ensuring efficient and reliable message exchange.
 
 ---
